@@ -20,7 +20,7 @@ var questions = [
       answer: " Vet"
     },
     {
-      title: "Who wrote JAVASCRIPT & JQUERY?",
+      title: "Who wrote JAVASCRIPT & JQUERY, interactive front-end web development?",
       choices: [" Quincy Iheme", " Vincent Gubitosi", " Jon Duckett", " Josh Hochman"],
       answer: " Jon Duckett"
     },
