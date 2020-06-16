@@ -1,7 +1,7 @@
 
-body{
+*{
   font-family: 'Roboto Condensed', sans-serif;
-  background-image: url('4.Code-Quiz/assets/Blurred-Background-Sunset-3c-Free.jpg');
+  background-image: url("assets/Blurred-Background-Sunset-3c-Free.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

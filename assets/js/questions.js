@@ -20,9 +20,9 @@ var questions = [
       answer: " Vet"
     },
     {
-      title: "JS date function starts in seconds to current day from what day in 1970?",
-      choices: [" January 1", " December 31", " June 1", " April 23"],
-      answer: " January 1"
+      title: "Who wrote JAVASCRIPT & JQUERY?",
+      choices: [" Quincy Iheme", " Vincent Gubitosi", " Jon Duckett", " Josh Hochman"],
+      answer: " Jon Duckett"
     },
   
   ];
