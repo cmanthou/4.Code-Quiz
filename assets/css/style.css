@@ -1,4 +1,3 @@
-/* General Styles */
 
 body{
   font-family: 'Roboto Condensed', sans-serif;
@@ -21,8 +20,6 @@ background-color: #414447;
   margin:5px 0;
 }
 
-/* Section Specific Styles */
-
 #positionWrapper{
   display: flex;
   flex-direction: column;
@@ -38,7 +35,6 @@ section{
 /* #controls{
   background-color: #d1deeb;
 } */ 
-
 
 #info{
   max-width:980px;
@@ -84,11 +80,9 @@ button{
   background-color: #414447;
 }
 
-
 #quizHolder #title{
   font-weight:700;
 }
-
 
 #quizHolder button{
   background-color:#414447;
@@ -136,7 +130,6 @@ margin-top:5px;
 .disable{
 pointer-events:none;
 }
-
 
 @media only screen and (min-width: 768px) {
 
