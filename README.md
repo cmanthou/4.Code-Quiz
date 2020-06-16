@@ -1,6 +1,6 @@
 # Code-Quiz
 
-Live Demo: 
+Launch site: https://cmanthou.github.io/4.Code-Quiz/
 
 Using Javascript and APIs a quiz game was created.  A timer is initiated set at 75 seconds and during that time, the user is asked 5 multiple choice questions.  Points are added for correct answers, but time is deducted (in 10 second incraments) for incorrect answers.  At the end of the quiz, scores are logged onto a high-score page and marked by user submitted initials.
 
