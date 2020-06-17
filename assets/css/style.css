@@ -1,7 +1,7 @@
 
-*{
+body{
   font-family: 'Roboto Condensed', sans-serif;
-  background-image: url("assets/Blurred-Background-Sunset-3c-Free.jpg");
+  background-image: url("../Blurred-Background-Sunset-3c-Free.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -13,7 +13,8 @@
 }
 
 #highScores div div:nth-child(odd){
-background-color: #414447;
+background: #414447;
+z-index: 10;
 }
 
 #highScores button{
@@ -32,10 +33,6 @@ section{
   margin: 0 auto;
 }
 
-/* #controls{
-  background-color: #d1deeb;
-} */ 
-
 #info{
   max-width:980px;
   margin: 0 auto;
@@ -46,7 +43,6 @@ section{
   flex-direction: column;
   padding: 16px 30px;
 }
-
 
 #scores{
   /* position:absolute; */

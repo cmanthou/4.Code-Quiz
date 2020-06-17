@@ -7,4 +7,4 @@ Using Javascript and APIs a quiz game was created.  A timer is initiated set at 
 Used normalize.css (v8.0.1) to make browsers render all elements more consistently and in line with modern standards.  Code pulled from https://necolas.github.io/normalize.css/
 
 Screenshot of site: 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+<img src = "assets/ScreenShot.png"/>
